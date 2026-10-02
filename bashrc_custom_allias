@@ -1,0 +1,3 @@
+#Personal Aliases
+alias ls = 'ls -lisa'
+alias cleanlog = '/working/scripts/logclean.sh'
